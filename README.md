@@ -80,3 +80,22 @@ If there are multiple tags and CAs in the same line:
 (for cases where the number of tags != the number of CAs, it is certain
 that the number of tags in that line = 1 or the number of CAs in that line = 1)
 
+
+# データの中身
+## pdfデータ例
+![picture 3](images/ccb6ae86066000a96f4af763797bf35c1aa9678be40cd3c04881d4e6fbc697a7.jpg)  
+
+![picture 4](images/0e31d92fa3314ceb069d950fd4137f9a416e463ecb899be34877e61b0a0cc356.jpg)  
+
+![picture 5](images/7a647337ca3286790a9d99a5854f34ca75050e261f29a020f37e781a14574eec.jpg)  
+
+![picture 6](images/02d54a040e92d08153cbdc2bf85033e29b45b328ade23ce5a0622a921bc5bf99.jpg)  
+
+
+## 正解ラベルはExcel形式
+![picture 2](images/f2a661b5f4baee0f85a0c931613b545447e2e4f3b7db475f8f0672ed7bd1825a.png)  
+
+
+## データスタッツ
+![picture 1](images/1147f964101727ae5819d46cf6e7b8ae6eac679a38cb3929f3d937878a253417.png)  
+
